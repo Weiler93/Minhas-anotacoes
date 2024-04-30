@@ -1,5 +1,5 @@
 
-# objetivos do script ?
+#objetivos do script ?
 
 ferramentas
 

@@ -1,4 +1,5 @@
-![captura.git1.png](captura.git.png)
+![captura.git1.png](./imagens/Capturar.git1.png)
+
 
 # lista de comandos git
 

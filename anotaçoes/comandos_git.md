@@ -33,6 +33,8 @@ git checkout
 
  [github](https://github.com/)
 
+ plataforma que permite o acesso remoto do repositorio 
+
  [gitlab](https://about.gitlab.com/)
 
 [bitbuck](https://www.bitbuckt.org)

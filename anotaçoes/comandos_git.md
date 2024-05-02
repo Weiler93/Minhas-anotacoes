@@ -1,7 +1,10 @@
+
+A imagem abaixo mostra alguns comandos
+
 ![captura.git1.png](./imagens/Capturar.git1.png)
 
 
-# lista de comandos git
+lista de comandos git
 
 git init
 
@@ -13,7 +16,14 @@ git config
 
 git add
 
-git commit
+# Git log
+
+ ## comando para vizualizar commit como mostra o exemplo abaixo
+
+
+![imagem commit](./imagens/imagem%20commit.PNG)
+
+
 
 git rm 
 

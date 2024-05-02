@@ -31,9 +31,9 @@ git checkout
 
 # Referencias Plataformas
 
- github: https://github.com/
+ [github](https://github.com/)
 
- gitlab: https://about.gitlab.com/
+ [gitlab](https://about.gitlab.com/)
 
-bit buck https://www.bitbuckt.org
+[bitbuck](https://www.bitbuckt.org)
 

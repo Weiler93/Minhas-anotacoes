@@ -1,25 +1,27 @@
 
-#objetivos do script ?
+# objetivos do script ?
 
-ferramentas
+Ferramentas
 
-git 
+Git 
 
-vs code 
 
-bash/ git bash
 
-linguagens 
+Vscode 
 
-markdown 
+Bash/ Gitbash
 
-portugol
+Linguagens 
 
-plataformas
+Markdown 
 
-github
+Portugol
 
-tyuping race
+Plataformas
+
+Github
+
+Tyuping race
 
 <!-- dilling -->
 

@@ -10,9 +10,9 @@ print(str(soma))
 
 
 # na linha de comando py foi imprimido da senguinte forma:
-$ py exercicio-01.py 
-Digite o nome: weiler
-Digite o sobrenome: jah
-<class 'str'>
-weilerjah
+# $ py exercicio-01.py 
+# Digite o nome: weiler
+# Digite o sobrenome: jah
+# <class 'str'>
+# weilerjah
 

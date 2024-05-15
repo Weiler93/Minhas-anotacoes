@@ -1,12 +1,8 @@
 nome = input('Digite o nome: ')
 sobrenome = input('Digite o sobrenome: ')
 
-soma = nome + sobrenome
+print(nome , sobrenome)
 
-
-print(type(soma))
-
-print(str(soma))
 
 
 # na linha de comando py foi imprimido da senguinte forma:

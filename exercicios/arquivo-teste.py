@@ -9,8 +9,4 @@
 
 #print('o resultado da soma é ' +  str(soma))
 
-C = int(input('Quantas perguntas:'))
-for i in range(0, C )
-pergunta = input
-print(f'resposta '(i) 'gzuz')
 

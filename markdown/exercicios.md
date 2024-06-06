@@ -27,4 +27,4 @@
 
 ## Desafios:
 14. Escreva um programa que solicita três números ao usuário e retorna a média deles.
-14. Escreva um programa que solicita ao usuário o raio de uma esfera e retorna o volume da esfera.
+15. Escreva um programa que solicita ao usuário o raio de uma esfera e retorna o volume da esfera.

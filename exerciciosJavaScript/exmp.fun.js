@@ -13,3 +13,4 @@ let nomes = [pessoa1,pessoa2,pessoa3].join(':: ')
 
 console.log(nomes)
 console.log(pessoa2)
+
